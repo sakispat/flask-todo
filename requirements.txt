@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+flask_wtf
+flask-migrate
+python-dotenv
+rav

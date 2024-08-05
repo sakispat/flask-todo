@@ -1,0 +1,14 @@
+# General
+env/
+.env
+*__
+
+# Database
+instance/
+migrations/
+
+# TailwindCSS
+node_modules/
+
+# GitHub Pushing
+push.sh

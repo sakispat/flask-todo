@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "server": "npx tailwindcss -i ./todo/static/css/main.css -o ./todo/static/css/todo.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  },
+  "dependencies": {
+    "flowbite": "^2.4.1"
+  }
+}

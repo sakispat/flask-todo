@@ -1,0 +1,7 @@
+scripts:
+  # Flask
+  server: flask run
+  
+  # Tailwind CSS
+  tailwind_install: npm install
+  tailwind_server: npm run start
